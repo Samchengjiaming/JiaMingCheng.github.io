@@ -1,5 +1,5 @@
 # About me
-### My name is JiaMing Chneg(程嘉明).I will be a master student in the Embedded Technology and Visual Processing Research Center , Xidian Univ, under the supervision of Professor Liang Zhang.I received my Bachelor degree in Shandong Normal University.
+### My name is JiaMing Cheng(程嘉明).I will be a master student in the Embedded Technology and Visual Processing Research Center , Xidian Univ, under the supervision of Professor Liang Zhang.I received my Bachelor degree in Shandong Normal University.
 
 # Research
 ### At the undergraduate level, my research direction was intelligent transportation<sup>[1]</sup>.But I'm actually more interested in computer vision,So I chose Xidian Univ.
