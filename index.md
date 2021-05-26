@@ -1,4 +1,4 @@
-### recent work:  
+### recent works:  
 - [x] [Undergraduate Graduation Project (No English language service this project)](https://github.com/Samchengjiaming/DataSocial)  
 - [ ] [HUNG-YI-LEE-MACHINE-LEARNING-2020-HW](https://github.com/Samchengjiaming/HUNG-YI-LEE-MACHINE-LEARNING-2020-HW)  
 
