@@ -1,3 +1,7 @@
+### recently work:  
+- [x] [Undergraduate Graduation Project (No English language service this project)](https://github.com/Samchengjiaming/DataSocial)  
+- [ ] [HUNG-YI-LEE-MACHINE-LEARNING-2020-HW](https://github.com/Samchengjiaming/HUNG-YI-LEE-MACHINE-LEARNING-2020-HW)  
+
 # About me
 ### My name is JiaMing Cheng(程嘉明).I will be a master student in the Embedded Technology and Visual Processing Research Center , Xidian Univ, under the supervision of Professor Liang Zhang.I received my Bachelor degree in Shandong Normal University.
 
